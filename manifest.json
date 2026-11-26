@@ -1,0 +1,11 @@
+{
+  "name": "SmartComposition - Plateforme de Composition",
+  "short_name": "SmartComposition",
+  "description": "Plateforme de composition synchronisée avec classement et correction.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#172921",
+  "theme_color": "#244d3b"
+}
